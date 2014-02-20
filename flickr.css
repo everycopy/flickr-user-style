@@ -1,0 +1,8 @@
+/*  Custom styles for GitHub.com by James Goode (@everycopy)
+============================================================================ */
+
+/* Remove the Facebook reminder */
+
+div#sihp-friendfinder {
+  display: none;
+}
