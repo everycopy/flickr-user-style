@@ -1,7 +1,7 @@
-/*  Custom styles for GitHub.com by James Goode (@everycopy)
+/*  Custom styles for Flickr.com by James Goode (@everycopy)
 ============================================================================ */
 
-/* Remove the Facebook reminder */
+/* Remove the Facebook reminder on the logged in homepage */
 
 div#sihp-friendfinder {
   display: none;
